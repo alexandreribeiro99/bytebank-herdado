@@ -1,7 +1,7 @@
 
 package com.mycompany.bytebank.herdado;
 
-public class Funcionario {
+public class Funcionario { // super classe
     private String nome;
     private String cpf;
     private double salario;
